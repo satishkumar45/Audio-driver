@@ -1,0 +1,6 @@
+audio flow :::
+
+audio stagefreight player -> audio flinger -> audio HAL -> audio backend driver -> i2s interface -> audio hardware(speaker,headset)
+
+
+
